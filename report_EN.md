@@ -314,3 +314,5 @@ Looking ahead, building truly secure and reliable machine learning systems requi
 [18] Su, J., Vargas, D. V., & Sakurai, K. (2019). One pixel attack for fooling deep neural networks. *IEEE Transactions on Evolutionary Computation*.
 [19] Croce, F., & Hein, M. (2020). Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks. *International Conference on Machine Learning (ICML)*.
 [20] Croce, F., & Hein, M. (2020). Minimally distorted adversarial examples with a fast adaptive boundary attack. *International Conference on Machine Learning (ICML)*.
+
+[21] Aditi, R., Jacob, S., Percy, L. (2018). Certified Defenses against Adversarial Examples. Arxiv.org
